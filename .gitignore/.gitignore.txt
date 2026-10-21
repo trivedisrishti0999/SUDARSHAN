@@ -1,0 +1,10 @@
+# big data, don't upload
+dataset/
+roboflow_download/
+processed/
+
+# python junk
+__pycache__/
+venv/
+.ipynb_checkpoints/
+*.pyc
