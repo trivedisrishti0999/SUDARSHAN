@@ -1,0 +1,9 @@
+{
+  "accuracy": 1.0,
+  "macro_f1": 1.0,
+  "top3_accuracy": 1.0,
+  "best_val_acc": 1.0,
+  "train_images": 170,
+  "val_images": 34,
+  "test_images": 34
+}
