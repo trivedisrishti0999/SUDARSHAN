@@ -4,7 +4,7 @@
 
 Upload a photo of a machine part and the system identifies the part type with a confidence score, then shows its available sizes, stock quantity, warehouse location (zone / rack / shelf / bin) and compatible machines. Parts can also be searched by name, ID or specification.
 
-**Team:** Srishti Trivedi, Lav
+**Team:** Srishti Trivedi, Lavaniya Bhardwaj
 **UN SDG:** SDG 9 (Industry, Innovation and Infrastructure), SDG 12 (Responsible Consumption and Production)
 
 ## Architecture
